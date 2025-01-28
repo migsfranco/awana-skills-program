@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/awana-skills-program/module_1/mlruns/0/9febed75044c4924971a7c2fa8773d8a/artifacts
+end_time: 1738081577977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9febed75044c4924971a7c2fa8773d8a
+run_name: marvelous-bear-802
+run_uuid: 9febed75044c4924971a7c2fa8773d8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738081574369
+status: 3
+tags: []
+user_id: codespace
